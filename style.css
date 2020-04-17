@@ -128,7 +128,7 @@ form.example::after {
   padding-left: 10px;
   width: 60%;
   height: auto;
-  align: center;
+  text-align: center;
 }
 
 
@@ -140,6 +140,7 @@ form.example::after {
 
 .row{
   display: flex;
+  flex-direction: row;
 }
 
 
